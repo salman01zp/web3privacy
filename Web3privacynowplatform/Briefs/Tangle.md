@@ -13,7 +13,7 @@
  **Token**
  | Request  | Data point | 
  | ------------- | ------------- |
- | **Do you have a token** | Yes, for Testnet: tTNT and Mainnet when launched: $TNT |
+ | **Do you have a token** | Yes, $TNT |
 
  **Socials**
  | Request  | Data point | 
@@ -62,12 +62,12 @@
  | Request  | Data point | 
  | ------------- | ------------- |
  | **Is it peer-to-peer**  | Yes | 
- | **Compliance**  | In planning |
+ | **Compliance**  | N/A |
  | **KYC**  | TBD |
- | **Privacy policy** | https://www.webb.tools/terms-and-conditions |
+ | **Privacy policy** | https://www.tangle.tools/terms-and-conditions |
  | **Collected data**  | TBD |
  | **Data sharing** | N/a, beyond standard blockchain standards |
- | **Sign-in requirments** | Webb Protocol can be interacted with or deployed on different blockchains. |
+ | **Sign-in requirments** | N/A |
  | **Identity integrations** | Not currently. |
 
  **Security**
