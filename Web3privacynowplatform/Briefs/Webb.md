@@ -2,24 +2,24 @@
 
  | Request  | Data point | 
  | ------------- | ------------- |
- | **Project name**  | Tangle Network |
- | **Logotype**  | https://github.com/webb-tools/tangle/blob/main/assets/Tangle%20Logomark.png |
- | **Short project description (1 sentence)** | An MPC-as-a-service restaking infrastructure powering cross-chain and zero-knowledge application development. |
- | **Launch date** | April 10 2024 |
+ | **Project name**  | Webb Protocol |
+ | **Logotype**  | https://drive.google.com/file/d/103ekCg_0Pj3qUiiQd9O8EsEZtbFmRMBc/view?usp=sharing |
+ | **Short project description (1 sentence)** | Webb Protocol is an open-source, privacy-centric, and resilient framework for efficient interaction between cross-chain and private dApps. |
+ | **Launch date** | Sept 29 2023 |
  | **Is it open source?** | Yes |
- | **Website**  | https://www.tangle.tools |
+ | **Website**  | https://www.webb.tools |
  | **Github**  | https://github.com/webb-tools/tangle |
 
  **Token**
  | Request  | Data point | 
  | ------------- | ------------- |
- | **Do you have a token** | Yes, $TNT |
+ | **Do you have a token** | Webb Protocol is currently governed by the Tangle Network, which is a Testnet: tTNT, Mainnet when launched, $TNT |
 
  **Socials**
  | Request  | Data point | 
  | ------------- | ------------- |
- | **Blog** | https://www.tangle.tools/blog |
- | **Twitter (X)** | https://twitter.com/tangle_network |
+ | **Blog** | https://blog.webb.tools |
+ | **Twitter (X)** | https://twitter.com/webbprotocol |
  | **Telegram** | https://t.me/webbprotocol |
  | **Discord** | https://discord.com/invite/cv8EfJu3Tn |
  | **Other** | n/a |
@@ -27,8 +27,8 @@
  **Docs**
  | Request  | Data point | 
  | ------------- | ------------- |
- | **Docs** | https://docs.tangle.tools |
- | **Whitepaper** | https://github.com/webb-tools/tangle/blob/main/Tangle_Network_Whitepaper_March282024.pdf |
+ | **Docs** | https://docs.webb.tools |
+ | **Whitepaper** | https://eprint.iacr.org/2023/260.pdf |
  | **Litepaper** | n/a |
 
  **Team**
@@ -62,12 +62,12 @@
  | Request  | Data point | 
  | ------------- | ------------- |
  | **Is it peer-to-peer**  | Yes | 
- | **Compliance**  | N/A |
+ | **Compliance**  | In planning |
  | **KYC**  | TBD |
- | **Privacy policy** | https://www.tangle.tools/terms-and-conditions |
+ | **Privacy policy** | https://www.webb.tools/terms-and-conditions |
  | **Collected data**  | TBD |
  | **Data sharing** | N/a, beyond standard blockchain standards |
- | **Sign-in requirments** | N/A |
+ | **Sign-in requirments** | Webb Protocol can be interacted with or deployed on different blockchains. |
  | **Identity integrations** | Not currently. |
 
  **Security**
@@ -87,4 +87,4 @@
  | Request  | Data point | 
  | ------------- | ------------- |
  | **When product had been launched** |  n/a | 
- | **When mainnet**  | April 10 2024 |
+ | **When mainnet, beta had been launched**  | Hubble Bridge, utilizing the Webb Protocol, is in alpha. 08/07/2023 |
